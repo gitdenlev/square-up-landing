@@ -59,7 +59,10 @@ function Home() {
         description="At SquareUp, we take pride in delivering exceptional digital products and services that drive success for our clients. Here's what some of our satisfied clients have to say about their experience working with us"
       />
       {clientsStaff.map((client, index) => (
-        <div key={index} className="px-[24px] py-[40px] border-b border-solid border-grey_15">
+        <div
+          key={index}
+          className="px-[24px] py-[40px] border-b border-solid border-grey_15"
+        >
           <h2 className="text-green_80 text-[18px] font-medium">
             {client.title}
           </h2>

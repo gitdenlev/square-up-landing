@@ -65,6 +65,4 @@ const clientsStaff = [
   },
 ];
 
-
-
 export default clientsStaff;
