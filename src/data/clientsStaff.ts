@@ -7,7 +7,7 @@ const clientsStaff = [
     user_card: {
       user_name: "John Smith",
       position: "CEO of Chic Boutique",
-      avatar: "public/img/john-smith.png",
+      avatar: "/img/john-smith.png",
     },
   },
   {
@@ -17,7 +17,7 @@ const clientsStaff = [
     user_card: {
       user_name: "Sarah Johnson",
       position: "Founder of HungryBites",
-      avatar: "public/img/sarah-johnson.png",
+      avatar: "/img/sarah-johnson.png",
     },
   },
   {
@@ -28,7 +28,7 @@ const clientsStaff = [
     user_card: {
       user_name: "Mark Thompson",
       position: "CEO of EventMasters",
-      avatar: "public/img/mark-thompson.png",
+      avatar: "/img/mark-thompson.png",
     },
   },
   {
@@ -38,7 +38,7 @@ const clientsStaff = [
     user_card: {
       user_name: "Laura Adams",
       position: "COO of ProTech Solutions.",
-      avatar: "public/img/laura-adams.png",
+      avatar: "/img/laura-adams.png",
     },
   },
   {
@@ -49,7 +49,7 @@ const clientsStaff = [
     user_card: {
       user_name: "Michael Anderson",
       position: "Founder of Dream Homes Realty.",
-      avatar: "public/img/michael-anderson.png",
+      avatar: "/img/michael-anderson.png",
     },
   },
   {
@@ -60,7 +60,7 @@ const clientsStaff = [
     user_card: {
       user_name: "Emily Turner",
       position: "CEO of FitLife Tracker",
-      avatar: "public/img/emily-turner.png",
+      avatar: "/img/emily-turner.png",
     },
   },
 ];
